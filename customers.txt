@@ -1,0 +1,5 @@
+4156|7287|Mark|Camaligan|MALE|11/17/1998|22|CREDITS|Dormant|2
+4398|4627|Picolo|Naga City|FEMALE|12/24/1998|22|CREDITS|Active|3
+6243|6113|Caitlyn|Camaligan|MALE|2/23/1997|23|SAVINGS|Dormant|null
+4156|5801|Mark|Camaligan|MALE|11/17/1998|24|SAVINGS|Active|null
+2559|5627|Marco|Naga|MALE|11/24/1998|24|SAVINGS|Active|null
